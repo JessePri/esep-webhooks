@@ -1,0 +1,6 @@
+C:\UF Online Resources\Senior 2\CIS4930\EDA Assignment\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.deps.json
+C:\UF Online Resources\Senior 2\CIS4930\EDA Assignment\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.runtimeconfig.json
+C:\UF Online Resources\Senior 2\CIS4930\EDA Assignment\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.pdb
+C:\UF Online Resources\Senior 2\CIS4930\EDA Assignment\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\UF Online Resources\Senior 2\CIS4930\EDA Assignment\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\UF Online Resources\Senior 2\CIS4930\EDA Assignment\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.dll
